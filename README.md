@@ -2,14 +2,22 @@ TreeImplementation
 ==================
 *****Please refer to README.pdf and HowTo.pdf for details*********
 
+
 Compilation Instructions : Compiler to use : 'javac'. All the '.java' files, including
-'dictionary.java', are stored in one folder, 'arora_bhimender'.
+'dictionary.java', are stored in one folder.
+
 In the directory,
+
 javac *.java
+
 compiles all the files.
+
 To run the following commands are used:
+
 java dictionary -r s order
+
 java dictionary -u filePath
+
 Please note here that, the program expects either full path for the input file, or the input file to be
 present in the same directory as the classes.
 
